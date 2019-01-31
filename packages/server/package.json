@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "lipetzniv <niv.lipetz@zooz.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "reporter": "1.0.0",
+    "scheduler" : "1.0.0"
+  }
+}
